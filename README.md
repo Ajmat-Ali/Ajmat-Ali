@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajmat Ali</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **MEARN**
+- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/hillwebaligr/sites](https://app.netlify.com/teams/hillwebaligr/sites)
 
