@@ -76,7 +76,6 @@
         alt="ajmat-ali"
       />
     </p>
-    <br/>
     <p>
       &nbsp;<img
         align="center"
