@@ -11,6 +11,8 @@
 
 - **✉️ Email:** **badshah9631619358@gmail.com**
 
+- **💼 Portfolio :** **https://frontend-portfolio-ajmat-ali.netlify.app/** 
+
 - **🔒 Interests:**
                 Cybersecurity
 
@@ -19,9 +21,6 @@
            Pursuing growth and excellence in software development
 
 <h3 align="left">Connect with me:</h3>
-<button> HTML </button>
-<h1>Just for Checking</h1>
-<button>CSS</button>
 <p align="left">
 <a href="https://linkedin.com/in/ajmat-ali-a85342288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajmat-ali-a85342288" height="30" width="40" /></a>
 <a href="https://instagram.com/ajmat2654" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajmat2654" height="30" width="40" /></a>
