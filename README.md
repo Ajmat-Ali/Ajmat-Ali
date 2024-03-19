@@ -1,19 +1,27 @@
 <h1 align="center">Hi 👋, I'm Ajmat Ali</h1>
 <h3 align="center">From front-end finesse to diving into the depths of MERN stack! Embracing the journey of continuous learning, one technology at a time.</h3>
 
-- 🌱 I’m currently learning **MERN**
+- 🏫 Proudly representing Bihar, India
 
 - 💻 Full-stack development bootcamp graduate from Masai School
-- 
-🚀 Exploring the realms of front-end and back-end development
+  
+- 🚀 Exploring the realms of front-end and back-end development
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/hillwebaligr/sites](https://app.netlify.com/teams/hillwebaligr/sites)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 
-- 📫 How to reach me **badshah9631619358@gmail.com**
+- ✉️ Email: **badshah9631619358@gmail.com**
 
-- 📄 Know about my experiences [https://test-resume.masaischool.com/dashboard/profile/?selectedTemplate=TwoColumnMinimal&isEdit=true&resumeId=656dbeea39f30f1c453fba2b&profileId=self](https://test-resume.masaischool.com/dashboard/profile/?selectedTemplate=TwoColumnMinimal&isEdit=true&resumeId=656dbeea39f30f1c453fba2b&profileId=self)
+- 🔒 Interests:
+
+🛡️ Cybersecurity
+⚙️ Systems Engineering
+
+- 📚 Goals:
+
+📈 Continuously expanding skill set and knowledge
+🌱 Pursuing growth and excellence in software development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
