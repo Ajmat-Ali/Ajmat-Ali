@@ -68,6 +68,7 @@
           height="30"
         />
     </p>
+    <h1>📊 GitHub Stats</h1>
     <p>
       <img
         align="left"
