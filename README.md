@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajmat Ali</h1>
-<h3 align="center">"From front-end finesse to diving into the depths of MERN stack! 💻🚀 Embracing the journey of continuous learning, one technology at a time. #NeverStopExploring #TechEnthusiast"</h3>
+<h3 align="center">From front-end finesse to diving into the depths of MERN stack! Embracing the journey of continuous learning, one technology at a time.</h3>
 
 - 🌱 I’m currently learning **MERN**
 
