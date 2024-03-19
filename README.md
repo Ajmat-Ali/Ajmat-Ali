@@ -96,7 +96,6 @@
         />
       </a>
     </p>
-
     <p>
       <img
         align="left"
@@ -104,7 +103,6 @@
         alt="ajmat-ali"
       />
     </p>
-
     <p>
       &nbsp;<img
         align="center"
@@ -112,7 +110,6 @@
         alt="ajmat-ali"
       />
     </p>
-
     <p>
       <img
         align="center"
