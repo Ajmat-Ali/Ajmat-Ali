@@ -3,6 +3,10 @@
 
 - 🌱 I’m currently learning **MERN**
 
+- 💻 Full-stack development bootcamp graduate from Masai School
+- 
+🚀 Exploring the realms of front-end and back-end development
+
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/hillwebaligr/sites](https://app.netlify.com/teams/hillwebaligr/sites)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
