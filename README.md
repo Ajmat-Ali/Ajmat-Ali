@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 
-- ✉️ Email: **badshah9631619358@gmail.com**
+- **✉️ Email:** **badshah9631619358@gmail.com**
 
 - 🔒 Interests:
                 Cybersecurity
