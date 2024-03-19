@@ -6,8 +6,8 @@
 - 💻 Full-stack development bootcamp graduate from Masai School
   
 - 🚀 Exploring the realms of front-end and back-end development
-
--🔨 Currently Learning: **MongoDB**, **ExpressJS**,**Node.js** for backend development
+- 
+- **🔨 Currently Learning:**  **MongoDB**, **ExpressJS**,**Node.js** for backend development
 
 - **✉️ Email:** **badshah9631619358@gmail.com**
 
