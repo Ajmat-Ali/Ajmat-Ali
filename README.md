@@ -7,9 +7,7 @@
   
 - 🚀 Exploring the realms of front-end and back-end development
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/hillwebaligr/sites](https://app.netlify.com/teams/hillwebaligr/sites)
-
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
+-🔨 Currently Learning: **MongoDB**, **ExpressJS**,**Node.js** for backend development
 
 - **✉️ Email:** **badshah9631619358@gmail.com**
 
