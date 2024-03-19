@@ -14,11 +14,11 @@
 - ✉️ Email: **badshah9631619358@gmail.com**
 
 - 🔒 Interests:
-      🛡️ Cybersecurity
+-     🛡️ Cybersecurity
       ⚙️ Systems Engineering
 
 - 📚 Goals:
-     📈 Continuously expanding skill set and knowledge
+-    📈 Continuously expanding skill set and knowledge
      🌱 Pursuing growth and excellence in software development
 
 <h3 align="left">Connect with me:</h3>
