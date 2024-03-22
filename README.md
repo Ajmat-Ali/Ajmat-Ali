@@ -20,12 +20,12 @@
            Continuously expanding skill set and knowledge &
            Pursuing growth and excellence in software development
 
-<h3 align="left">🌐 Social Media:</h3>
+<h1 align="left">🌐 Social Media:</h1>
 <p align="left">
 <a href="https://linkedin.com/in/ajmat-ali-a85342288" target="blank"><img align="center" src="https://camo.githubusercontent.com/d94940866c98cb4fca5783c4e8ac95776d2f52df6bbf3d5ab9e30d76836f30ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="ajmat-ali-a85342288" width="100px" /></a>
 </p>
 
- <h3 align="left">💻 Tech Stack</h3>
+ <h1 align="left">💻 Tech Stack</h1>
     <p align="left">  
         <img src="https://camo.githubusercontent.com/5e7e215d9ff3a7c2e96d09232c11b2205565c841d1129dd2185ebd967284121f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"
           alt="HTML5"
