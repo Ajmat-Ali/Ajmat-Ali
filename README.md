@@ -11,7 +11,7 @@
 
 - **✉️ Email:** **badshah9631619358@gmail.com**
 
-- **💼 Portfolio :** **https://frontend-portfolio-ajmat-ali.netlify.app/** 
+- **💼 Portfolio :** **https://ajmat-portfolio.netlify.app/** 
 
 - **🔒 Interests:**
                 Cybersecurity
