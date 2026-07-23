@@ -1,92 +1,84 @@
-<h1 align="center">Hi 👋, I'm Ajmat Ali</h1>
-<h3 align="center">From front-end finesse to diving into the depths of MERN stack! Embracing the journey of continuous learning, one technology at a time.</h3>
+<h1 align="center">Hi, I'm Ajmat Ali </h1>
+<h3 align="center">Full Stack Developer (MERN) | Building production-minded web applications</h3>
 
-- 🏫 Proudly representing Bihar, India
-
-- 💻 Full-stack development bootcamp graduate from Masai School
-  
-- 🚀 Exploring the realms of front-end and back-end development
-
-- **🔨 Currently Learning:**  MongoDB, ExpressJS, Node.js for backend development
-
-- **✉️ Email:** **badshah9631619358@gmail.com**
-
-- **💼 Portfolio :** **https://ajmat-portfolio.netlify.app/** 
-
-- **🔒 Interests:**
-                Cybersecurity
-
-- **📚 Goals:**
-           Continuously expanding skill set and knowledge &
-           Pursuing growth and excellence in software development
-
-<h1 align="left">🌐 Social Media:</h1>
-<p align="left">
-<a href="https://linkedin.com/in/ajmat-ali-a85342288" target="blank"><img align="center" src="https://camo.githubusercontent.com/d94940866c98cb4fca5783c4e8ac95776d2f52df6bbf3d5ab9e30d76836f30ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="ajmat-ali-a85342288" width="100px" /></a>
+<p align="center">
+   Bihar, India &nbsp;•&nbsp;  BCA @ Amity University &nbsp;•&nbsp;  Open to SDE Roles
 </p>
 
- <h1 align="left">💻 Tech Stack</h1>
-    <p align="left">  
-        <img src="https://camo.githubusercontent.com/5e7e215d9ff3a7c2e96d09232c11b2205565c841d1129dd2185ebd967284121f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"
-          alt="HTML5"
-          width="100px"
-          height="30"
-        />
-        <img src="https://camo.githubusercontent.com/6531a4161596e3d9fdab3d0499a7b7ce5c5c8b568be219f3e9707af042e575d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"
-          alt="CSS"
-          width="100px"
-          height="30"
-        />
-        <img src="https://camo.githubusercontent.com/53ec2e58e03ba275d9b3a386abd96a243cf744a1a7121bdf8262fc8ae6ebc335/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145"
-          alt="JavaScript"
-         width="100px"
-          height="30"
-        />
-        <img src="https://camo.githubusercontent.com/3babc94d778f96441b3a66615fb5ee88c6ed04f174ed49b04df92b071a7d0e80/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642"
-          alt="ReactJS"
-          width="100px"
-          height="30"
-        />
-        <img src="https://camo.githubusercontent.com/57396ca28ed73547fcc53dc43c059550f0fd7233ab6ac26fd40d65ad0d3018d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702d2532333536334437432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465"
-          alt="Bootstrap"
-          width="100px"
-          height="30"
-        />
-        <img src="https://camo.githubusercontent.com/8bc77ae2c6ec0a97c7692ec54d53c49d3c4637e9c64ee63f7b45cf14a50e8177/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465"
-          alt="Postman"
-          width="100px"
-          height="30"
-        />
-        <img src="https://camo.githubusercontent.com/2aa883d52783b24f65681fa3a20b76e914ca9cdbda511170ddae263b8c692c2e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e65746c6966792d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e65746c696679266c6f676f436f6c6f723d23303043374237"
-          alt="Netlify"
-          width="100px"
-          height="30"
-        />
-        <img src="https://camo.githubusercontent.com/f10a09d787a2711827baf1afaf040dbc50111dc399b1ecbb8a77f77931ebffb0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6368616b72612d2532333445443143352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6368616b72617569266c6f676f436f6c6f723d7768697465"
-          alt="Chakra"
-          width="100px"
-          height="30"
-        />
-    </p>
-    <h1>📊 GitHub Stats</h1>
-    <p>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=ajmat-ali&show_icons=true&locale=en&layout=compact"
-        alt="ajmat-ali"
-      />
-    </p>
-    <p>
-      &nbsp;<img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=ajmat-ali&show_icons=true&locale=en"
-        alt="ajmat-ali"
-      />
-    </p>
-    <p>
-      <img
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=ajmat-ali&"
-        alt="ajmat-ali"
-      />
-    </p>
+---
+
+###  About Me
+
+-  I build full-stack applications with **React, Node.js, Express, and MongoDB**, focused on real-world concerns like authentication, security, and clean architecture, not just tutorial-level CRUD.
+-  Trained in the MERN stack through **Masai School**, and have continued building independently ever since, my project work reflects hands-on, applied skill rather than just coursework.
+-  My flagship project, **Libro**, is a full-stack library seat management system with role-based access, payment integration, and production-grade security.
+-  Currently sharpening: **Data Structures & Algorithms** and deepening backend system design.
+-  Ask me about: React, Redux Toolkit, Node.js/Express, MongoDB, JWT authentication, or REST API design.
+-  Reach me: **badshah9631619358@gmail.com**
+
+
+---
+
+### Tech Stack
+
+**Languages & Core**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+**Database**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Auth & Security**
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+### Featured Project
+
+**[Libro: Full-Stack Library Seat Management System](https://libro-pink-six.vercel.app/)**
+
+A full-stack platform that automated manual library seat allocation, cutting availability lookup time from 15+ minutes to seconds.
+
+- Role-based access control (Admin, Student, Guard) with JWT auth, bcrypt-hashed passwords, and HTTP-only cookie sessions
+- QR code-based attendance system with automatic entry logging
+- Razorpay payment integration for seat booking with auto-generated receipts and ID cards
+- Admin dashboard with real-time revenue, occupancy, and attendance metrics
+- Production-grade security: rate limiting, Helmet, CORS, input validation, OTP email verification
+- Secure file uploads (Multer + Cloudinary) with MIME-type and size validation
+
+**Tech:** React · Redux Toolkit · Node.js · Express · MongoDB · JWT · Razorpay · Cloudinary
+
+🔗 [Live Demo](https://libro-pink-six.vercel.app/) &nbsp;|&nbsp; 🔗 [Backend Repo](https://github.com/Ajmat-Ali/Libro)
+
+---
+
+###  GitHub Stats
+
+<p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Ajmat-Ali&show_icons=true&theme=dark&count_private=true" alt="Ajmat's GitHub Stats" height="165"/> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajmat-Ali&theme=dark" alt="Ajmat's GitHub Streak" height="165"/>
+</p>
+
+
+---
+
+###  Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/portfolio-ajmat-ali/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:badshah9631619358@gmail.com)
